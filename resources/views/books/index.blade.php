@@ -22,8 +22,9 @@
                                 <thead>
                                     <tr>
                                         <th>Judul Buku</th>
-                                        <th>Pengarang Buku</th>
-                                        <th>Liris Tahun</th>
+                                        <th>Tanggal pembelian</th>
+                                        <th>Harga Buku</th>
+                                        
                                         <th>Aksi</th>
                                     </tr>
                                 </thead>

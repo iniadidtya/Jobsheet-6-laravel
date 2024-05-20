@@ -18,7 +18,7 @@
                                 <thead>
                                     <tr>
                                         <th>Judul Buku</th>
-                                        <th>Pengarang Buku</th>
+                                        <th>Harga Buku</th>
                                         <th>Liris Tahun</th>
                                     </tr>
                                 </thead>

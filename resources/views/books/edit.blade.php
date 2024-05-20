@@ -28,13 +28,13 @@
                             </div>
 
                             <div class="form-group">
-                                <label for="author">Pengarang Buku</label>
-                                <input type="text" class="form-control" id="author" name="author" value="{{ $book->detail->author }}">
+                                <label for="published_year">Harga Buku</label>
+                                <input type="text" class="form-control" id="published_year" name="published_year" value="{{ $book->detail->published_year }}">
                             </div>
 
                             <div class="form-group">
-                                <label for="published_year">Liris Tahun</label>
-                                <input type="text" class="form-control" id="published_year" name="published_year" value="{{ $book->detail->published_year }}">
+                                <label for="author">Tanggal Pembelian</label>
+                                <input type="text" class="form-control" id="author" name="author" value="{{ $book->detail->author }}">
                             </div>
 
                             <button type="submit" class="btn btn-primary">Update Book</button>
